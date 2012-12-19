@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+\#*\#
+*~
+TAGS
+db/schema.rb
+log/
+db/*.sqlite3
+tmp/
+
+# bundler state
+/.bundle
+/vendor/bundle/
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> bb999f0155140c82bb8dc2d10e447ebb269ff91c
